@@ -1,0 +1,5 @@
+[pyrogram]
+API_ID=
+API_HASH=
+BOT_TOKEN=
+API_URL=http://127.0.0.1:5000/api/v1/chat
